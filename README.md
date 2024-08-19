@@ -1,7 +1,5 @@
 # Movie Management App
 
-#### machine coding round 11 neoG"2023
-
 Welcome to the Movie Management App! This app allows you to efficiently manage your movie collection and preferences.
 
 ## Features
@@ -16,22 +14,8 @@ Welcome to the Movie Management App! This app allows you to efficiently manage y
 
 Follow these steps to get started with the Movie Management App:
 
-1. Clone the repository: `git clone https://github.com/your-username/movie-management-app.git`
 2. Navigate to the project directory: `cd movie-management-app`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 
-## Contribution
-
-Contributions are welcome! If you'd like to contribute to the Movie Management App, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/add-new-feature`
-3. Make your changes and commit them: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature/add-new-feature`
-5. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
